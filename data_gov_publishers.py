@@ -22,10 +22,10 @@ data_gov_publishers
                    data_gov_packets
                                    data_gov_output
    
-Do these changes showup in GIT??
-whoooo -cool !!
+Do these changes showup in GIT??  YES they did
+whoooo -cool !!  super cool - no?
 
-where is the version no?
+where is the version no?  - it show up in the committed list
 
 """
 
