@@ -52,7 +52,7 @@ publisher_id        = publisher_data["result"]["id"]
 cntr_2 = 0
 for y in publisher_data["result"]:
 
-    if cntr_2 > 2:
+    if cntr_2 > 5:
         break
 
     #****************************************
