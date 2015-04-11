@@ -12,7 +12,7 @@ My solution is a more "proof of concept" than finished code. I have a lot to cle
 
 Basically the logic flow is (with lots of the little details) in 3 steps
 
-1) I generate this url http://data.gov.uk/api/3/action/organization_list (cut and paste to Explorer to see results)
+1) I generate this url http://data.gov.uk/api/3/action/organization_list 
 
 Which gives me
 
@@ -22,7 +22,7 @@ Which gives me
 
 so, Publisher title = adur-district-council
 
-Next I generate this url "http://data.gov.uk/api/3/action/organization_show?id=adur-district-council" (cut and paste to Explorer to see results)
+Next I generate this url "http://data.gov.uk/api/3/action/organization_show?id=adur-district-council"  
 
 Which returns 
 
