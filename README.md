@@ -10,6 +10,12 @@ Get the Data Challenge: Find all the Spending Files
 
 My solution is a more "proof of concept" than finished code. I have a lot to clean up...
 
+Run 1st
+data_gov_publishers.py  and then 
+data_gov_packets.py  (see the code, for the moment they are stand alone, so I can test them)
+look in the subdirectory where you ran the programs for the different output files.
+
+
 Basically the logic flow is (with lots of the little details) in 3 steps
 
 1) I generate this url http://data.gov.uk/api/3/action/organization_list 
