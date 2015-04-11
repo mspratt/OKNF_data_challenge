@@ -81,7 +81,6 @@ for x in organization_data["result"] :
 
      cntr += 1
 
-
      #********************************
      #  go read through all the packets
      #  for this publisher
@@ -96,4 +95,3 @@ for x in organization_data["result"] :
      #  But, not yet there are only 5
      
      
-
