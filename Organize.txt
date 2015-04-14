@@ -1,0 +1,13 @@
+Git (VCS)
+Untracked
+Unmodified 
+Modified
+Staged
+
+
+cd subdirectory
+git status -s
+git add  "file-name"
+git .gitignore file
+git diff
+git difftool  
