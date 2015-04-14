@@ -10,6 +10,7 @@ want to get the list of their publications
 and write it to the output csv file
 
 """
+
 #*************************************************
 #  Initialize
 import sys, os, urllib3, json, html
